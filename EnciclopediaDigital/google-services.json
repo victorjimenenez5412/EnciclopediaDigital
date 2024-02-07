@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001820623513",
+    "project_id": "mi-primer-app-df1c8",
+    "storage_bucket": "mi-primer-app-df1c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001820623513:android:884d9958452f5a88a39e08",
+        "android_client_info": {
+          "package_name": "com.vic.ejemplo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001820623513-937m5qkv6f9kmguldttt2t29uf70ui0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_g6xHkv5PP3uF44YbN_B9BtglPq2ECX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001820623513-937m5qkv6f9kmguldttt2t29uf70ui0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
